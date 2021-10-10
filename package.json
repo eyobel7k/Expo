@@ -16,7 +16,9 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.1",
+    "webpack-hot-middleware": "^2.25.1"
   },
   "private": true
 }
